@@ -6,7 +6,7 @@ My name is Jaskaran Chawla, but you can just call me Jas. From cars to cooking, 
 ## 🔭 I’m currently working on ...
 * [Building Damage Assesment](https://github.com/SgainsO/Building-Damage-Assesment)
   * Started off as a hackathon, but me and my team might seek to make it something greater
-  * A segmenter model takes satilight data to predict if their are any broken buildings
+  * A segmenter model takes satellite data to predict if there are any broken buildings in the picture
     * A YOLO than further analyizes the broken buildings
 ##
 <!--
