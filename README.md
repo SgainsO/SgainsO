@@ -8,7 +8,6 @@ My name is Jaskaran Chawla, but you can just call me Jas. From cars to cooking, 
   * Started off as a hackathon, but me and my team might seek to make it something greater
   * A segmenter model takes satellite data to predict if there are any broken buildings in the picture
     * A YOLO than further analyizes the broken buildings
-##
 <!--
 **SgainsO/SgainsO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
