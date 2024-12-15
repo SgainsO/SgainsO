@@ -10,6 +10,14 @@ My name is Jaskaran Chawla, but you can just call me Jas. From cars to cooking, 
   * Started off as a hackathon, but me and my team might seek to make it something greater
   * A segmenter model takes satellite data to predict if there are any broken buildings in the picture
     * A YOLO than further analyizes the broken buildings
+## Pinned Project Information
+### FSU-ASLC-APP
+* Developed a mobile app using React Native to inform students about ASLC events.
+* Implemented a robust backend with AWS and PostgreSQL to power the app.
+* Used tools like figma to propose possible UI designs
+### Damage Assesment
+* This project was created in a coloboration with Kyiv university students to reduce costs in rebuilding cities
+* Used AI models to estimate percent of building damage, and estimate cost to repair
 <!--
 **SgainsO/SgainsO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
