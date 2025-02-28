@@ -4,8 +4,8 @@
 
 My name is Jaskaran Chawla, but you can just call me Jas. From cars to cooking, you will see that I have a wide variety of interests. Professionally, I am interested in Software Engineering and Data Science. I have worked to further both my abilities by creating various personal projects as well as participating in hackathons. I have made many projects, including those that deal with Computer Vision to identify and predict costs of building repairs, Pandas databases, and scikit-learn models to predict information for various tasks, and even a simple [cloud-stored app](https://github.com/SgainsO/CBSapp) to store all your recipes in one place!
 ### 🏆 Achievements
-- Georgia Tech Hackalytics 2025 Third in Healthcare Track
-- Florida State University Hack Disaster 2023
+- [Georgia Tech Hackalytics 2025 Third in Healthcare Track](https://github.com/venkat1596/Hacklytics_Hackathon)
+- Florida State University Hack Disaster 2023 Second Overall
 ### 🌱 I’m Currently learning...
 - R
 ## 🔭 I’m currently working on ...
