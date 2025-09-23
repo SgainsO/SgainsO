@@ -1,8 +1,11 @@
 ![banner](cut.png)
 
 ## Hi there 👋
+So I like to code, but I talk a lot about that on here, so i'd like to use this space to talk another side of my life. I love cooking, admittedly, i'm not great at it, but that moment when you follow a recipe, and it actually turns out to taste super good? Nothing beats it. For a period of my College life, I was the president of my cooking club, I think some of my best memories unironically came from that club (I will never live down that knife I burned...)
 
-My name is Jaskaran Chawla, but you can just call me Jas. From cars to cooking, you will see that I have a wide variety of interests. Professionally, I am interested in Software Engineering and Data Science. I have worked to further both my abilities by creating various personal projects as well as participating in hackathons. I have made many projects, including those that deal with Computer Vision to identify and predict costs of building repairs, Pandas databases, and scikit-learn models to predict information for various tasks, and even a simple [cloud-stored app](https://github.com/SgainsO/CBSapp) to store all your recipes in one place!
+I’m also into drones. While I always see “the next” OpenAI model getting tons of attention, drone applications seem to get way less. I think air + automation is the future of a lot of industries — the tech to change things is already here, but it feels like a lot of the jobs just aren’t being done.
+
+Knowing that, you can probably guess what most of my projects are aimed at :D
 ### 🏆 Achievements
 - Create-X Summer 2025
 - [Georgia Tech Hackalytics 2025 Third in Healthcare Track](https://github.com/venkat1596/Hacklytics_Hackathon)
