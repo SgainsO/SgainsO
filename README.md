@@ -19,15 +19,17 @@ Knowing that, you can probably guess what most of my projects are aimed at :D
   * Started out as a hackathon project, but we felt like we could do a bit more
   * We aim to address a large-scale problem by launching progressively advanced products, creating the infrastructure to transform the insurance industry. 
     * Currently Working On : *to be announced* 
-## Pinned Project Information
-### FSU-ASLC-APP
+### Pinned Project Information
+#### FSU-ASLC-APP
 * Developed a mobile app using React Native to inform students about ASLC events.
 * Implemented a robust backend with AWS and PostgreSQL to power the app.
 * Used tools like figma to propose possible UI designs
-### Damage Assesment
+#### Damage Assesment
 * This project was created in a coloboration with Kyiv university students to reduce costs in rebuilding cities
 * Used AI models to estimate percent of building damage, and estimate cost to repair
-* If you want to see the project that set me on my current trajectory 
+* If you want to see the project that set me on my current trajectory
+#### [Yourspot.cc](yourspot.cc)
+* A website that connects aspiring restaurant owners to their prospective owners through statistical models
 <!--
 **SgainsO/SgainsO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
