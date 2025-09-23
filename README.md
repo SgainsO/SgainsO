@@ -1,4 +1,4 @@
-![banner]([https://www.gmmspl.com/wp-content/uploads/2021/10/data-analytics.png](https://thumbs.dreamstime.com/b/cool-wallpapers-backgrounds-check-out-our-68126782.jpg))
+![banner](cut.png)
 
 ## Hi there 👋
 
