@@ -3,9 +3,8 @@
 ## Hi there 👋
 So I like to code, but I talk a lot about that on here, so i'd like to use this space to talk another side of my life. I love cooking, admittedly, i'm not great at it, but that moment when you follow a recipe, and it actually turns out to taste super good? Nothing beats it. For a period of my College life, I was the president of my cooking club, I think some of my best memories unironically came from that club (I will never live down that knife I burned...)
 
-I’m also into drones. While I always see “the next” OpenAI model getting tons of attention, drone applications seem to get way less. I think air + automation is the future of a lot of industries — the tech to change things is already here, but it feels like a lot of the jobs just aren’t being done.
+Professionally, I'm drawn to data and AI. Utilizing data and machine learning for predictions can be enligtening in virtually any domain. Thats what makes me interested. On the AI side, I believe narrative storytelling is one of the most underexplored frontiers, and I'm eager to contribute to its early development.
 
-Knowing that, you can probably guess what most of my projects are aimed at :D
 ### 🏆 Achievements
 - Create-X Summer 2025
 - [Georgia Tech Hackalytics 2025 Third in Healthcare Track](https://github.com/venkat1596/Hacklytics_Hackathon)
