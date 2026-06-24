@@ -11,15 +11,15 @@ Knowing that, you can probably guess what most of my projects are aimed at :D
 - [Georgia Tech Hackalytics 2025 Third in Healthcare Track](https://github.com/venkat1596/Hacklytics_Hackathon)
 - Florida State University Hack Disaster 2023 Second Overall
 ### 🌱 I’m Currently learning...
-* Go and Flutter by working on CookLens
-  * Motivation: Most cooking websites have clunky interfaces when you’re actually trying to cook — and it doesn’t help when your hands are busy (or messy) with food.
+* AI Engineering
+ * Specifically I am learning about fine tuning on Small Language Models. I believe Small Language Models are the future, Fable sized models can only scale so much, and we have already seen so much progress from Models like [QWEN 9b](https://huggingface.co/Qwen/Qwen3.5-9B) 
 
 ### 🔭 I’m currently working on ...
-* [Reconaut](https://github.com/SgainsO/Building-Damage-Assessment)
-  * Started out as a hackathon project, but we felt like we could do a bit more
-  * We aim to address a large-scale problem by launching progressively advanced products, creating the infrastructure to transform the insurance industry. 
-    * Currently Working On : *to be announced* 
-### Pinned Project Information
+* [Orgo AI]([https://github.com/SgainsO/Building-Damage-Assessment](https://www.alkenelabs.com/landing))
+  * Orgo AI helps students solve chemistry problems that AI programs tends to make. Our focus here is on affordability of access unachievable by ai-based products
+  * More information will be available by December of 2026 
+
+### Some Cool Projects
 #### FSU-ASLC-APP
 * Developed a mobile app using React Native to inform students about ASLC events.
 * Implemented a robust backend with AWS and PostgreSQL to power the app.
