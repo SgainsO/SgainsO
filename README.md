@@ -15,9 +15,17 @@ Knowing that, you can probably guess what most of my projects are aimed at :D
  * Specifically I am learning about fine tuning on Small Language Models. I believe Small Language Models are the future, Fable sized models can only scale so much, and we have already seen so much progress from Models like [QWEN 9b](https://huggingface.co/Qwen/Qwen3.5-9B) 
 
 ### 🔭 I’m currently working on ...
-* [Orgo AI]([https://github.com/SgainsO/Building-Damage-Assessment](https://www.alkenelabs.com/landing))
+* [Orgo AI](https://github.com/SgainsO/Building-Damage-Assessment)
   * Orgo AI helps students solve chemistry problems that AI programs tends to make. Our focus here is on affordability of access unachievable by ai-based products
-  * More information will be available by December of 2026 
+  * More information will be available by December of 2026
+* Historically Fine Tuned Roleplay
+ * The Goals for this Role Play simulator
+   1. help students learn in history in an engaging fashon.
+   2. provide the experience in an affordable fashion
+         * No api calls from expensive api models
+         * Runnable on decently accesable hardware
+ * A Qwen-9b and Gemma-2EB will be used together as a fasillitator and "partner" with multiple different characters being supported
+
 
 ### Some Cool Projects
 #### FSU-ASLC-APP
